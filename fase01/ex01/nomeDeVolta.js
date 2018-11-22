@@ -1,5 +1,4 @@
-function meuNomeDeVolta(){
+function nomeDeVolta(){
     console.log("Marvin")
     return ("Marvin")
 }
-console.log(meuNomeDeVolta())
